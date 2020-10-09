@@ -9,4 +9,4 @@ while fact <= enemy:
 	print(f"День № {day} - {fact:.2f} км.")
 	today = today/100*10 + today
 	
-print(f"Потребовалось дней для достижения цели: {day}")
+print(f"Потребовалось дней для достижения цели: {day}") 
