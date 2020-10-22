@@ -1,0 +1,6 @@
+Ivanov 25
+Petrov 30
+Sidorov 18
+Dapkunaite 19
+Orlov 15
+Kozlov 46
